@@ -4,7 +4,7 @@ import (
 	"database/sql"
 	"time"
 
-	"github.com/brucewangviki/gorm"
+	"github.com/viki-org/gorm"
 )
 
 // User has one `Account` (has one), many `Pets` (has many) and `Toys` (has many - polymorphic)

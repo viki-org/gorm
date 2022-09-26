@@ -5,9 +5,9 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/brucewangviki/gorm/clause"
-	"github.com/brucewangviki/gorm/schema"
-	"github.com/brucewangviki/gorm/utils"
+	"github.com/viki-org/gorm/clause"
+	"github.com/viki-org/gorm/schema"
+	"github.com/viki-org/gorm/utils"
 )
 
 // Association Mode contains some helper methods to handle relationship things easily.

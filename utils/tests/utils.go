@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/brucewangviki/gorm/utils"
+	"github.com/viki-org/gorm/utils"
 )
 
 func AssertObjEqual(t *testing.T, r, e interface{}, names ...string) {

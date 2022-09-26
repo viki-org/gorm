@@ -12,8 +12,8 @@ import (
 	"time"
 
 	"github.com/jinzhu/now"
-	"github.com/brucewangviki/gorm/clause"
-	"github.com/brucewangviki/gorm/utils"
+	"github.com/viki-org/gorm/clause"
+	"github.com/viki-org/gorm/utils"
 )
 
 // special types' reflect type

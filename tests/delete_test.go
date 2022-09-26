@@ -4,9 +4,9 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/brucewangviki/gorm"
-	"github.com/brucewangviki/gorm/clause"
-	. "github.com/brucewangviki/gorm/utils/tests"
+	"github.com/viki-org/gorm"
+	"github.com/viki-org/gorm/clause"
+	. "github.com/viki-org/gorm/utils/tests"
 )
 
 func TestDelete(t *testing.T) {

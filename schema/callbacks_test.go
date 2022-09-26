@@ -5,8 +5,8 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/brucewangviki/gorm"
-	"github.com/brucewangviki/gorm/schema"
+	"github.com/viki-org/gorm"
+	"github.com/viki-org/gorm/schema"
 )
 
 type UserWithCallback struct{}

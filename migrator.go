@@ -3,8 +3,8 @@ package gorm
 import (
 	"reflect"
 
-	"github.com/brucewangviki/gorm/clause"
-	"github.com/brucewangviki/gorm/schema"
+	"github.com/viki-org/gorm/clause"
+	"github.com/viki-org/gorm/schema"
 )
 
 // Migrator returns migrator

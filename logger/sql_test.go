@@ -9,7 +9,7 @@ import (
 	"testing"
 
 	"github.com/jinzhu/now"
-	"github.com/brucewangviki/gorm/logger"
+	"github.com/viki-org/gorm/logger"
 )
 
 type JSON json.RawMessage

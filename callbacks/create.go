@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/brucewangviki/gorm"
-	"github.com/brucewangviki/gorm/clause"
-	"github.com/brucewangviki/gorm/schema"
-	"github.com/brucewangviki/gorm/utils"
+	"github.com/viki-org/gorm"
+	"github.com/viki-org/gorm/clause"
+	"github.com/viki-org/gorm/schema"
+	"github.com/viki-org/gorm/utils"
 )
 
 // BeforeCreate before create hooks

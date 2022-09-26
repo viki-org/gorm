@@ -8,8 +8,8 @@ import (
 	"reflect"
 	"sync"
 
-	"github.com/brucewangviki/gorm/clause"
-	"github.com/brucewangviki/gorm/logger"
+	"github.com/viki-org/gorm/clause"
+	"github.com/viki-org/gorm/logger"
 )
 
 // ErrUnsupportedDataType unsupported data type

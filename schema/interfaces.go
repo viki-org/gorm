@@ -1,7 +1,7 @@
 package schema
 
 import (
-	"github.com/brucewangviki/gorm/clause"
+	"github.com/viki-org/gorm/clause"
 )
 
 // GormDataTypeInterface gorm data type interface

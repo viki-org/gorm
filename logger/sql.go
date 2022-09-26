@@ -10,7 +10,7 @@ import (
 	"time"
 	"unicode"
 
-	"github.com/brucewangviki/gorm/utils"
+	"github.com/viki-org/gorm/utils"
 )
 
 const (

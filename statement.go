@@ -12,10 +12,10 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/brucewangviki/gorm/clause"
-	"github.com/brucewangviki/gorm/logger"
-	"github.com/brucewangviki/gorm/schema"
-	"github.com/brucewangviki/gorm/utils"
+	"github.com/viki-org/gorm/clause"
+	"github.com/viki-org/gorm/logger"
+	"github.com/viki-org/gorm/schema"
+	"github.com/viki-org/gorm/utils"
 )
 
 // Statement statement

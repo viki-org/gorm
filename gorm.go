@@ -8,9 +8,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/brucewangviki/gorm/clause"
-	"github.com/brucewangviki/gorm/logger"
-	"github.com/brucewangviki/gorm/schema"
+	"github.com/viki-org/gorm/clause"
+	"github.com/viki-org/gorm/logger"
+	"github.com/viki-org/gorm/schema"
 )
 
 // for Config.cacheStore store PreparedStmtDB key
